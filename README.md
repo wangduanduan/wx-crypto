@@ -30,3 +30,8 @@ let plain_msg = wxCrypto.decrypt(msg_encrypt)
   - getSignature
   - decrypt
   - decrypt
+
+# 测试
+```
+yarn test
+```
