@@ -1,12 +1,13 @@
 {
-  "name": "wx-crypto",
-  "version": "0.0.1",
+  "name": "@wangduanduan/wx-crypto",
+  "version": "0.0.7",
   "main": "index.js",
   "repository": "git@github.com:wangduanduan/wx-crypto.git",
   "author": "wangduanduan <1779706607@qq.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "publish": "npm publish --access=public "
   },
   "keywords": [
     "wechat",

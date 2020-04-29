@@ -1,6 +1,13 @@
 # wx-crypto
 微信加解密库
 
+# 安装
+
+```
+npm i @wangduanduan/wx-crypto
+yarn add @wangduanduan/wx-crypto
+```
+
 # 用法
 
 ```js
